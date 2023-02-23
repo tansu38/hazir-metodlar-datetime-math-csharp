@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\yazılım\hazir-metodlar-datetime-math-csharp\bin\Debug\net7.0\hazir-metodlar-datetime-math-csharp.exe
+C:\Users\user\Desktop\yazılım\hazir-metodlar-datetime-math-csharp\bin\Debug\net7.0\hazir-metodlar-datetime-math-csharp.deps.json
+C:\Users\user\Desktop\yazılım\hazir-metodlar-datetime-math-csharp\bin\Debug\net7.0\hazir-metodlar-datetime-math-csharp.runtimeconfig.json
+C:\Users\user\Desktop\yazılım\hazir-metodlar-datetime-math-csharp\bin\Debug\net7.0\hazir-metodlar-datetime-math-csharp.dll
+C:\Users\user\Desktop\yazılım\hazir-metodlar-datetime-math-csharp\bin\Debug\net7.0\hazir-metodlar-datetime-math-csharp.pdb
+C:\Users\user\Desktop\yazılım\hazir-metodlar-datetime-math-csharp\obj\Debug\net7.0\hazir-metodlar-datetime-math-csharp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\yazılım\hazir-metodlar-datetime-math-csharp\obj\Debug\net7.0\hazir-metodlar-datetime-math-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\yazılım\hazir-metodlar-datetime-math-csharp\obj\Debug\net7.0\hazir-metodlar-datetime-math-csharp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\yazılım\hazir-metodlar-datetime-math-csharp\obj\Debug\net7.0\hazir-metodlar-datetime-math-csharp.AssemblyInfo.cs
+C:\Users\user\Desktop\yazılım\hazir-metodlar-datetime-math-csharp\obj\Debug\net7.0\hazir-metodlar-datetime-math-csharp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\yazılım\hazir-metodlar-datetime-math-csharp\obj\Debug\net7.0\hazir-metodlar-datetime-math-csharp.dll
+C:\Users\user\Desktop\yazılım\hazir-metodlar-datetime-math-csharp\obj\Debug\net7.0\refint\hazir-metodlar-datetime-math-csharp.dll
+C:\Users\user\Desktop\yazılım\hazir-metodlar-datetime-math-csharp\obj\Debug\net7.0\hazir-metodlar-datetime-math-csharp.pdb
+C:\Users\user\Desktop\yazılım\hazir-metodlar-datetime-math-csharp\obj\Debug\net7.0\hazir-metodlar-datetime-math-csharp.genruntimeconfig.cache
+C:\Users\user\Desktop\yazılım\hazir-metodlar-datetime-math-csharp\obj\Debug\net7.0\ref\hazir-metodlar-datetime-math-csharp.dll
